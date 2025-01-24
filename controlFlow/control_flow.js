@@ -42,3 +42,4 @@ switch (userType) {
 let isAuthenticated = true;
 
 let authenticationStatus = isAuthenticated ? "Authenticated" : "Not authenticated";
+
